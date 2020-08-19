@@ -29,13 +29,13 @@ To run tests and linting type in terminal of the project directory:\
   http://127.0.0.1:8000/api/recipe/ \
   Includes endpoint URL of components that makes up a recipe (tags, ingredients, etc.).
   
-  ### Create Tags
+  #### Create Tags
   http://127.0.0.1:8000/api/recipe/tags/
   
-  ### Create Ingredients
+  #### Create Ingredients
   http://127.0.0.1:8000/api/recipe/ingredients/
   
-  ### Create Recipe
+  #### Create Recipe
   http://127.0.0.1:8000/api/recipe/recipes/ \
   Recipe created will be added to the user recipe list.
   ![Preview](https://i.imgur.com/5KCBMyn.png)
